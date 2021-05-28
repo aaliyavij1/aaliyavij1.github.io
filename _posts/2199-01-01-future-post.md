@@ -306,7 +306,7 @@ $F_{\psi} = T{\{(\frac{d\psi}{\text{dx}})}_{2} - {(\frac{d\psi}{\text{dx}})}_{1}
 >
 > Rearranging to get the $\text{dx}$ terms on one side gives
 >
-> $\frac{d^{2}\psi}{dt^{2}} = \frac{T}{\mu}\frac{{(\frac{d\psi}{\text{dx}})}_{2} - {(\frac{d\psi}{\text{dx}})}_{1}}{\text{dx}}$
+> $\frac{d^{2}\psi}{dt^{2}} = \frac{T}{\mu}\frac{(\frac{d\psi}{\text{dx}})}_{2} - {(\frac{d\psi}{\text{dx}})}_{1}}{\text{dx}}$
 > (12)
 >
 > The numerator of the last term on the right hand side of (12) is the
