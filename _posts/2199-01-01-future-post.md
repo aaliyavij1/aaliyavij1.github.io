@@ -1352,7 +1352,7 @@ So we have
 >
 > So
 >
-> $T =$$\frac{\left| A \right|^{2}}{\left| D \right|^{2}} = {\frac{16E(V_{0} - E)}{{V_{0}^{}}^{2}}e^{- 2L}}^{}.$
+> $T =$$\frac{\left| A \right|^{2}}{\left| D \right|^{2}} = {\frac{16E(V_{0} - E)}{V_{0}^{}^{2}}e^{- 2L}}^{}.$
 > (25)
 >
 > This is the probability of tunneling! We should be able to confirm two
