@@ -7,7 +7,7 @@ tags:
 ---
 **Quantum Mechanics and Tunneling**
 
-[seemypaper](http://aaliyavij1.github.io/files/Quantum_mechanics_and_Tunneling.pdf)
+[See my paper](http://aaliyavij1.github.io/files/Quantum%20mechanics%20and%20Tunneling.pdf)
 > The behaviour of most objects that we deal with in our day-to-day life
 > can be explained by classical mechanics. Classical physics is causal,
 > which means that outcomes are completely predictable given full
