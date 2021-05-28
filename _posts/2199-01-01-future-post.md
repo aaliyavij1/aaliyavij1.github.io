@@ -879,7 +879,7 @@ $E\psi = \{\frac{p^{2}}{2m} + V(x)\}\psi.$
 > found in equation (6). For $E$ we will substitute by the operator
 > suggested in equation (10). In doing this we get
 
-$i\hslash\frac{\partial}{\partial t}\psi = \frac{{( - i\hslash)^{2}\frac{\partial^{2}\psi}{\partial x^{2}}}^{}}{2m} + V(x)\psi.$
+$i\hslash\frac{\partial}{\partial t}\psi = \frac{( - i\hslash)^{2}\frac{\partial^{2}\psi}{\partial x^{2}}^{}}{2m} + V(x)\psi.$
 (14)
 
 Expanding gives
